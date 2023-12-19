@@ -4,6 +4,10 @@ images = 8312
 https://universe.roboflow.com/siewchinyip-outlook-my/sixray
 
 
+About Yolo: 
+
+	Ultralytics YOLOv8 is a cutting-edge, state-of-the-art (SOTA) model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility. YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection and tracking, instance segmentation, image classification and pose estimation tasks.
+
 This is a custom trained yolov8 model that uses the SIXray dataset which contains an imbalance 
 in the positive and negative samples making it the ideal choice for real time detection.
 How ever the purpose of this implementation is to test the newly created YOLOv8 CNN model.
