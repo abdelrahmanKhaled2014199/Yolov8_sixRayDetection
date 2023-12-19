@@ -19,7 +19,8 @@ by manipulating the following parameters:
 	- image size 
 And comparing the results across multiple iterations and noticing the improvement. 
 
-To manipulate the parameters you can check the args.yaml file in the args folder 
+To manipulate the parameters you can check the args.yaml file in the args folder.
+
 To manipulate the data and add preprocessing or integrate it with a transformer.
 	then check the .ipynb (google colab) and .py file if you want to do the job on your pc.  
 
