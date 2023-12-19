@@ -71,25 +71,15 @@ To manipulate the data and add preprocessing or integrate it with a transformer.
     ],
 
 
-![image](https://github.com/abdelrahmanKhaled2014199/Yolov8_sixRayDetection/assets/154362798/b67768ce-5e1c-4e0c-875a-9b3ee5df3382)
-
-This is a details architecture link containing the layers: https://ibb.co/xgQwKKV 
-
-The following images is the results that we acuired at the third iteration (30 epochs)
-![confusionMatrix](https://github.com/abdelrahmanKhaled2014199/Yolov8_sixRayDetection/assets/154362798/3b113e4f-5030-4b09-8ca5-b75afe051709)
-![evaluation materices](https://github.com/abdelrahmanKhaled2014199/Yolov8_sixRayDetection/assets/154362798/1280e70a-bc87-4831-8abf-03de86f37c40)
-![F1_Curve](https://github.com/abdelrahmanKhaled2014199/Yolov8_sixRayDetection/assets/154362798/56203cc7-71b5-4c8c-9995-1de546eb0326)
-![PR_Curve](https://github.com/abdelrahmanKhaled2014199/Yolov8_sixRayDetection/assets/154362798/2b52aabd-6790-40f2-89af-13cf432740e3)
-![P_Curve](https://github.com/abdelrahmanKhaled2014199/Yolov8_sixRayDetection/assets/154362798/beb576ea-3e33-48ec-baa0-caff10b35888)
 
 
-The following images is the detection results on some input images after the model have been trained  
 
-![Screenshot_4](https://github.com/abdelrahmanKhaled2014199/Yolov8_sixRayDetection/assets/154362798/f23cfbee-874d-46e5-a67c-d1b6ac040614)
-![Screenshot_3](https://github.com/abdelrahmanKhaled2014199/Yolov8_sixRayDetection/assets/154362798/1256006e-1f9b-4717-ac74-186badf508e3)
-![Screenshot_2](https://github.com/abdelrahmanKhaled2014199/Yolov8_sixRayDetection/assets/154362798/2094715e-376a-400d-bfbd-98ffd383e7b8)
-![Screenshot_1](https://github.com/abdelrahmanKhaled2014199/Yolov8_sixRayDetection/assets/154362798/4c77c66c-96f2-41c5-acc6-c53898ecd43d)
 
+
+![image](https://github.com/abdelrahmanKhaled2014199/Yolov8_sixRayDetection/assets/154362798/ac75b218-6c1a-42ca-9169-7912d69390ee)
+
+
+Access the results folder to see the evaluation metrics and predicted output detections for each iteration
 
 
 
