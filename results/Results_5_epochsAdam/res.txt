@@ -1,0 +1,8 @@
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% 104/104 [00:35<00:00,  2.89it/s]
+                   all       1662       3176      0.498      0.444      0.452      0.214
+                   Gun       1662        888      0.825        0.8      0.864      0.462
+                 Knife       1662        442      0.403      0.355       0.34      0.137
+                Pliers       1662       1110      0.432       0.61      0.523      0.241
+              Scissors       1662        206      0.433      0.379      0.376      0.153
+                Wrench       1662        530      0.395     0.0775      0.159     0.0751
+Speed: 0.3ms pre-process, 8.6ms inference, 0.0ms loss, 2.7ms post-process per image
